@@ -23,4 +23,4 @@ Supported features:
 
 * Undo functionality - If the game has not just started or finished, the users are allowed to undo their previous moves. The user should click on the Undo button to undo the immediately previous move.
 
-*Human Machine Mode - Users can play games with the computer. The user selects "computer" at the terminal to start a competition with the computer. Users can choose the 'Fight Human' button to fight against another person.
+*Human Machine Mode - Users can play games with the computer or human. The user selects "computer" at the terminal to start a competition with the computer. Users can choose the 'human' to fight against another person.
